@@ -1,0 +1,92 @@
+﻿location,pool_id,subsample,sample
+north_parcel,control,DI,NPDI
+north_parcel,7,A,NP7A
+north_parcel,7,B,NP7B
+north_parcel,9,A,NP9A
+north_parcel,9,B,NP9B
+north_parcel,14,A,NP14A
+north_parcel,14,B,NP14B
+north_parcel,19,A,NP19A
+north_parcel,19,B,NP19B
+south_parcel,control,DI,SPDI
+south_parcel,2,A,SP2A
+south_parcel,2,B,SP2B
+south_parcel,4,A,SP4A
+south_parcel,4,B,SP4B
+south_parcel,6,A,SP6A
+south_parcel,6,B,SP6B
+south_parcel,5,A,SP5A
+south_parcel,5,B,SP5B
+ncos,control,DI,NCOSDI
+ncos,1,A,NCOS1A
+ncos,1,B,NCOS1B
+ncos,2,A,NCOS2A
+ncos,2,B,NCOS2B
+ncos,4,A,NCOS4A
+ncos,4,B,NCOS4B
+ncos,8,A,NCOS8A
+ncos,8,B,NCOS8B
+manzanita,control,DI,MDI
+manzanita,San Miguel,A,MSMA
+manzanita,San Miguel,B,MSMB
+manzanita,Santa Rosa,A,MSRA
+manzanita,Santa Rosa,B,MSRB
+manzanita,Santa Barbara,A,MSBA
+manzanita,Santa Barbara,B,MSBB
+manzanita,Santa Catalina,A,MSCA
+manzanita,Santa Catalina,B,MSCB
+wcb,control,DI,WCBDI
+wcb,control,DI March,WCBDIM
+wcb,1,A,WCB1A
+wcb,1,B,WCB1B
+wcb,2,A,WCB2A
+wcb,2,B,WCB2B
+wcb,4,A,WCB4A
+wcb,4,B,WCB4B
+wcb,6,A,WCB6A
+wcb,6,B,WCB6B
+wcb,9,A,WCB9A
+wcb,9,B,WCB9B
+wcb,8,A,WCB8A
+wcb,8,B,WCB8B
+del_sol,control,DI,DSDI
+del_sol,control,DI March,DSDIM
+del_sol,N,A,DSNA
+del_sol,N,B,DSNB
+del_sol,E,A,DSEA
+del_sol,E,B,DSEB
+del_sol,W,A,DSWA
+del_sol,W,B,DSWB
+del_sol,G,A,DSGA
+del_sol,G,B,DSGB
+camino_corto,control,DI,CCDI
+camino_corto,5,A,CC5A
+camino_corto,5,B,CC5B
+camino_corto,6,A,CC6A
+camino_corto,6,B,CC6B
+camino_corto,7,A,CC7A
+camino_corto,7,B,CC7B
+camino_corto,7,A March,CC7AM
+camino_corto,7,B March,CC7BM
+camino_corto,2,A,CC2A
+camino_corto,2,B,CC2B
+ellwood,control,DI,ERDI
+wcb,control,DI March,ERDIM
+ellwood,Reference,A,EWREFA
+ellwood,Reference,B,EWREFB
+ellwood,2,A,EW2A
+ellwood,2,B,EW2B
+ellwood,3,A,EW3A
+ellwood,3,B,EW3B
+copr,control,DI,COPRDI
+copr,VP1,A,COPR1A
+copr,VP1,B,COPR1B
+more_mesa,control,DI,MMDI
+more_mesa,Main,A,MMMA
+more_mesa,Main,B,MMMB
+sierra_madre,control,DI,SMDI
+sierra_madre,Main,A,SMMA
+sierra_madre,Main,B,SMMB
+los_carneros,control,DI,LCDI
+los_carneros,Main,A,LCMA
+los_carneros,Main,B,LCMB
